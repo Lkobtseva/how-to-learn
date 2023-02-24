@@ -110,7 +110,7 @@
 }
 
 .section {
-  display:block
+  display:block;
 }
 .digits {
   position: relative;
@@ -307,7 +307,7 @@
 }
 .footer__columns {
   display: flex;
-  padding-top: 60p;
+  padding-top: 60px;
   padding-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
