@@ -116,6 +116,9 @@
 .two-columns__paragraph:last-child {
   margin-bottom: 0;
 }
+.two-columns__span-accent {
+  font-weight: bold;
+}
 
 .section {
   display:block;
@@ -124,7 +127,6 @@
   position: relative;
   box-sizing: border-box;
   background-color: white;
-  margin-top: 100px;
 }
 .section-title {
   text-align: center;
