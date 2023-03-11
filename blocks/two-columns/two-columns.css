@@ -1,0 +1,7 @@
+.two-columns {
+    position: relative;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    width: 80%;
+  }
