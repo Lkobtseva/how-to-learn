@@ -5,7 +5,6 @@
     flex-wrap: wrap;
     padding: 0;
     margin-bottom: 100px;
-    row-gap: 20px;
     column-gap: 100px;
     box-sizing: border-box;
 }
